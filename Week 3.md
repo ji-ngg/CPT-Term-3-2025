@@ -7,13 +7,13 @@ This week was spent with me experimenting with different designs of my applicati
 
 | Feature                | Old Design            | New Design        |
 |------------------|----------------------------------|-------------|
-| Colour Scheme       | Lighter colours  (beige, white and brown)   | Still light colours, chose blue for a calming sense  |
+| Colour scheme       | Lighter colours  (beige, white and brown)   | Still light colours, chose blue for a calming sense  |
 | Typography        | Typography from original design          | Kept the same because it suited the logo font :)    |
 | Logo        | Made on Canva with original colours     | Edited in Canva to match the new colour palette   |
-| Logo Position (Login and signup)    | Positioned on the top of the page  | Much larger, moved to the side  |
-| Menu Icons        | In a separate menu (icons instead of the side menu)     | Changed to small buttons on the top right |
-| Full Screen Button    | On the bottom left        | Moved to the bottoom right  |
-| Music & Settings    | On the bottom of the site      | Also moved to the top right   |
+| Logo position (login and signup)    | Positioned on the top of the page  | Much larger, moved to the side  |
+| Menu icons        | In a separate menu (icons instead of the side menu)     | Changed to small buttons on the top right |
+| Full screen button    | On the bottom left        | Moved to the bottoom right  |
+| Music and settings    | On the bottom of the site      | Also moved to the top right   |
 
 # User data flow
 Data flow incorporated on my website:
@@ -24,3 +24,4 @@ Data flow incorporated on my website:
 - Timer page: countdown timer, data is retrieved from users keyboard for the duration of the timer
 - Settings: select background noise (eg. white noise or rain), users choose music and all sounds are looped and can be played simultaneously
 - Alarms and displays: set pomodoro alarm durations, choose 12/24 hour time formats and change the visual backgrounds.
+- There's a link on the general settings that directs users to a feedback survey to help improve the website further
