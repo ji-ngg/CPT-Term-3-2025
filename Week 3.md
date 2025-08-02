@@ -1,7 +1,8 @@
 # Alternative Design
 ## Design Sketch
 <img width="10950" height="6135" alt="Alternate design" src="https://github.com/user-attachments/assets/9919c74f-2002-4f10-88d5-fbd0ed3a9f06" />
-This week was spent with me experimenting with different designs of my application. I first started off with finding a new colour palette, which was also done on Coolers [Click here for the link](https://coolors.co/2b2d42-8d99ae-edf2f4), to fit into the minimalist design.
+This week was spent with me experimenting with different designs of my application. I first started off with finding a new colour palette, which was also done on Coolers, to fit into the minimalist design.
+[Colour palette link](https://coolors.co/2b2d42-8d99ae-edf2f4)
 
 **Other changed features**
 
