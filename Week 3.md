@@ -3,7 +3,7 @@
 <img width="10950" height="6135" alt="CPT3 (Copy) (2)" src="https://github.com/user-attachments/assets/088dc467-179d-4324-ad70-921defd2b3c3" />
 This week was spent with me experimenting with different designs of my application. I first started off with finding a new colour palette, which was also done on Coolers, to fit into the minimalist design.
 
-[Colour palette link](https://coolors.co/2b2d42-8d99ae-edf2f4)
+[Colour palette link](https://coolors.co/2b2d42-8d99ae-c0cfd8-edf2f4)
 
 **Other changed features**
 
