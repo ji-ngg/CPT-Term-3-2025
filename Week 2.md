@@ -22,9 +22,9 @@
 | Switch modes        | Switch to different modes using the icons at the top|
 
 
-**Branding**: The name 'studo!' is displayed in the top-left of each screen and acts as both a logo and home button. I decided on the minimalist aesthetic (beige/brown/white) as it suits as a productivity scheme and paired along with the inspirational quotes and calming music, reflects the app's purpose on focusing, calming and motivating yourself to study.
+**Branding**: The name `studo!` is displayed in the top-left of each screen and acts as both a logo and home button. I decided on the minimalist aesthetic (beige/brown/white) as it suits as a productivity scheme and paired along with the inspirational quotes and calming music, reflects the app's purpose on focusing, calming and motivating yourself to study.
 
-**Forms**: Forms on my application are relatively simple; just the login/sign up forms where the inputs are email, password (+ confirm password on sign up) as well as a Captcha field for security. On both starting pages, there will be links linking the two with lines such as 'Create account' or 'Already have an account?'.
+**Forms**: Forms on my application are relatively simple; just the login/sign up forms where the inputs are email, password (+ confirm password on sign up) as well as a Captcha field for security. On both starting pages, there will be links linking the two with lines such as `Create account` or `Already have an account?`.
 
 **Logos & Buttons**: 
 Buttons on each screen:
