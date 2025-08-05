@@ -9,12 +9,12 @@ This week was spent with me experimenting with different designs of my applicati
 
 | Feature                | Old Design            | New Design        |
 |------------------|----------------------------------|-------------|
-| Colour scheme       | Lighter colours  (beige, white and brown)   | Still light colours, chose blue for a calming sense  |
+| Colour scheme       | Lighter colours  (beige, white and brown)   | Still light colours (because my website goal is for a minimalistic sense, I wanted something unique but still light so I ended up choosing blue |
 | Typography        | Typography from original design          | Kept the same because it suited the logo font :)    |
 | Logo        | Made on Canva with original colours     | Edited in Canva to match the new colour palette   |
 | Logo position (login and signup)    | Positioned on the top of the page  | Much larger, moved to the side  |
-| Menu icons        | In a separate menu (icons instead of the side menu)     | Changed to small buttons on the top right |
-| Full screen button    | On the bottom left        | Moved to the bottoom right  |
+| Menu icons        | Changed to small buttons on the top right     | In a separate menu (icons instead of the side menu)  |
+| Full screen button    | On the bottom left        | Moved to the bottom right  |
 | Music and settings    | On the bottom of the site      | Also moved to the top right   |
 
 # User data flow
@@ -27,3 +27,11 @@ Data flow incorporated on my website:
 - Settings: select background noise (eg. white noise or rain), users choose music and all sounds are looped and can be played simultaneously
 - Alarms and displays: set pomodoro alarm durations, choose 12/24 hour time formats and change the visual backgrounds.
 - There's a link on the general settings that directs users to a feedback survey to help improve the website further
+
+# Sample website (with login/signup details)
+| Process | Image |
+| ----------- | ----------- |
+|**Sign up process with data flow** | <img width="8284" height="6371" alt="image" src="https://github.com/user-attachments/assets/03855d56-944d-452a-87ab-d87baa3da4ca" /> |
+|**Log in process with data flow** | <img width="877" height="646" alt="Screenshot 2025-08-05 at 10 19 11 am" src="https://github.com/user-attachments/assets/c88ca52d-b668-4ad3-9281-f48d51e63a6c" />
+
+
