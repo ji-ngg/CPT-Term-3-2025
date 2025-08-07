@@ -30,7 +30,7 @@
 Buttons on each screen:
 | Buttons               | What it does                                                        |
 |-----------------------|--------------------------------------------------------------------|
-| Login/Signup  | Submit form and links to home screen                              |
+| Login/Signup  | Submit form and links to home screen (username will have a 10 character limit)                              |
 | Timer Screen    | Start/pause/reset the timer                                |
 | Settings Buttons       | Change default Pomodoro session time and break times |
 | Music Controls        | Choose from background noise (eg. lake or a cafe)                   |
