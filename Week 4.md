@@ -20,3 +20,4 @@
 | **expected out** | - redirects to clock<br>- popup message: `Account created!`<br>- user data then is saved to database |
 | **written output**   | matched expected output (which is basically a pass)|
 | **pass or fail?**       | pass |
+<img width="3705" height="2389" alt="CPT3 Y10 Flowchart (1)" src="https://github.com/user-attachments/assets/f1ab1d1e-6161-4895-bae7-5c2acf6deab8" />
