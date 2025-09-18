@@ -1,0 +1,2 @@
+## Week 6/7;Creating & Styling Webpages
+This week was all about making the webpage ready to go to set up the system so we could code it. On Google Classroom, we were given the code to input into VSC terminal and once I did this, I started on coding the website. Troubles I ran into were not uploading all the files and sometimes being in the wrong location, which was fixed when entering `cd ..`. After I added all the folders, I started briefly designing the code ready for next week to input actual data and the design (HTML) of the website.
