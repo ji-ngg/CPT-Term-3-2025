@@ -18,4 +18,5 @@ During the holidays, I created the log in and sign up page as well as set up the
 Studo will save the user's saved preferences for background sound and music, as well as their preferred background (which I have edited from the original plan to just different pastel colours since having high quality normal pictures will interfere with the readability of the text on page).
 
 I've also finalised and shortened my code for my CSS styling of the website (shown below). While working on this code, I came across many error 403 messages which upon further researching was telling me how the website was restricted (most likely because I was having trouble with the reCAPTCHA account system which was reading it as incompleted); however, this was fixed by watching some video tutorials and asking AI for extra tutorials for how to link between my `style.css` and `app.js`
-
+<img width="1410" height="793" alt="Screenshot 2025-10-14 at 4 28 45 pm" src="https://github.com/user-attachments/assets/17c097f9-1637-49c5-8369-37fac20c032b" />
+(current status of homepage - need to centre it to the screen in week 1)
