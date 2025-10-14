@@ -1,2 +1,2 @@
 ## Computing AT3
-press on the other markdowns :)
+Weekly documentation has all the files that were worked on the previous weeks, the main application is in the folder below :)
