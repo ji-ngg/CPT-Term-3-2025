@@ -1,7 +1,16 @@
 ## Adding Interactivity (cont.)
 Continuing from last week, I started adding buttons and other interactive elements into my website. However, I didn't get as far as what I had hoped because I went on vacation :(
 
-**Work during the holidays**
+I caught up on week ten work and when I tested my website it was all working fine - during the holidays I will refine my CSS and make sure everything is to design. Currently, my website is looking like the default one that was provided but different layout and not to my plan. 
+
+To do during holidays:
+Refine CSS
+Change all the font colours to what was on layout
+Add the images
+Import sound and background music -> code into the website
+Set up log in & sign up database and code
+
+## **Work during the holidays**
 During the holidays, I created the log in and sign up page as well as set up the SQL database. I then linked this to my `data_source.db` and `my_queries.sql` where examples of user's data is shown below:
 <img width="852" height="148" alt="Screenshot 2025-10-14 at 4 10 02 pm" src="https://github.com/user-attachments/assets/5320950a-9429-43a2-a54d-7e194b3a5a9b" />
 
