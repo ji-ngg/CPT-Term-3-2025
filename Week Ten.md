@@ -11,7 +11,7 @@ Import sound and background music -> code into the website
 Set up log in & sign up database and code
 
 ## **Work during the holidays**
-During the holidays, I created the log in and sign up page as well as set up the SQL database. I then linked this to my `data_source.db` and `my_queries.sql` where examples of user's data is shown below:
+During the holidays, I learnt how to upload custom fonts using the code of '@fontface and then followed by mentioning a font family. However, I stuck to a basic font as I found the text to be difficult to read. I also created the log in and sign up page as well as set up the SQL database. I then linked this to my `data_source.db` and `my_queries.sql` where examples of user's data is shown below:
 
 <img width="852" height="148" alt="Screenshot 2025-10-14 at 4 10 02 pm" src="https://github.com/user-attachments/assets/5320950a-9429-43a2-a54d-7e194b3a5a9b" />
 
