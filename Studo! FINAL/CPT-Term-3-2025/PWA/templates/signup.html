@@ -1,0 +1,42 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="card auth-card">
+  <h2>Create account</h2>
+  {% if error %}<div class="error">{{ error }}</div>{% endif %}
+  <form method="post" id="signup-form">
+    <label>First Name
+      <input type="text" name="first_name" required />
+    </label>
+    <label>Email
+      <input type="email" name="email" required />
+    </label>
+    <label>Password
+      <input type="password" name="password" id="signup-pass" required />
+    </label>
+    <label class="show-pass">
+      <input type="checkbox" id="reveal-signup"> show password
+    </label>
+
+    <div class="reCAPTCHA">
+      {% if site_key %}
+      <div class="g-recaptcha" data-sitekey="{{ site_key }}"></div>
+      {% else %}
+      <input type="hidden" name="g-recaptcha-response" value="dummy-local-token">
+      <small>reCAPTCHA disabled (no site key)</small>
+      {% endif %}
+    </div>
+
+    <button class="btn">Sign up!</button>
+  </form>
+
+  <p>Already have an account? <a href="{{ url_for('login') }}">Log in</a></p>
+</div>
+
+<script>
+document.getElementById('reveal-signup').addEventListener('change', function(){
+  const p = document.getElementById('signup-pass');
+  p.type = this.checked ? 'text' : 'password';
+});
+</script>
+{% endblock %}
+
