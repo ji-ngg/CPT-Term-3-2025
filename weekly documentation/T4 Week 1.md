@@ -9,4 +9,4 @@ Also generated a Google Lighthouse report where scores are shown below: I'll aim
 <br><img width="621" height="209" alt="Screenshot 2025-10-15 at 3 42 54 pm" src="https://github.com/user-attachments/assets/166b1398-c949-4ea7-8a94-6e3c99b89612" />
 [Pomodoro Google Lighthouse Report.pdf](https://github.com/user-attachments/files/22918580/download.pdf)
 
-Also double-checked for offline functionality where the website fully works but reCAPTCHA prevents users from visiting the other HTMLs beside log in/sign up :)
+Also double-checked for offline functionality where the website fully works but reCAPTCHA prevents users from visiting the other HTMLs beside log in/sign up as well as the SQL database linking user's data with their preferences of alarms and backgrounds in settings :) - did need to remove the feedback button of the website as it made the whole thing crash and I couldn't figure out why.
