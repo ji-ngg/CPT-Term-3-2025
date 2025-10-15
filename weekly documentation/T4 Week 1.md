@@ -6,3 +6,5 @@ This week was finalising everything to submit
 
 Also generated a Google Lighthouse report where scores are shown below: I'll aim to increase these scores before submission
 <img width="515" height="150" alt="Screenshot 2025-10-15 at 1 38 47 pm" src="https://github.com/user-attachments/assets/6ae5cd1f-7650-49ca-a449-fbb4fb3df6a7" />
+
+Also double-checked for offline functionality where the website fully works but reCAPTCHA prevents users from visiting other sites
