@@ -33,7 +33,7 @@ Instructions to use site:
 2. Run Flask in the terminal, and make sure to install all dependencies listed in `requirements.txt` (you can do this with `pip install -r requirements.txt`).
 3. Once Flask is running, open the local web link it gives you and go to the sign up page if you’re a new user or log in if you already have an account.
 4. explore the website of pomodoros, clocks and timers with music/alarms :)
-5. NOTE: website is functional online with serviceworker.js - however, reCAPTCHA requires an active wifi connection to work. This means users can’t log in offline since the code checks that reCAPTCHA has been successfully verified.
+NOTE: website is functional online with serviceworker.js - however, reCAPTCHA requires an active wifi connection to work. This means users can’t log in offline since the code checks that reCAPTCHA has been successfully verified.
 
 ## Credits:
 - Tested by my friends (shoutout Rita, Jackie, Isabella, Alice ‼️)
