@@ -1,19 +1,6 @@
 ## Computing AT3
 More detailed weekly documentation has all the readme files that were worked on the previous weeks, the main application is in the folder above :)
-# Context
-<h3 id="Requirements">
-  <a href="Functional-Requirements">Requirements</a>
-</h3>
-<h3 id="Wireframe-Sketch">
-  <a href="Wireframe-Sketch">Wireframe-Sketch</a>
-</h3>
-</h3>
-<h3 id="Instructions">
-  <a href="Instructions">Instructions</a>
-</h3>
-<h3 id="Algorithm-Flowchart">
-  <a href="Algorithm-Flowchart">Algorithm Flowchart</a>
-</h3>
+
 # Functional Requirements
 The app is mainly going to be used for studying purposes and will feature a main timer with different options that the user can choose instead such as a Pomodoro timer and normal clock.
 
