@@ -30,7 +30,7 @@ Users will be able to choose backgrounds, the sound when the timer has finished,
 # Instructions to use site 
 Instructions to use site:
 1. Download project folder, extract it and load into VSCode
-2. Run Flask in the terminal, and make sure to install all dependencies listed in requirements.txt (you can do this with pip install -r requirements.txt).
+2. Run Flask in the terminal, and make sure to install all dependencies listed in `requirements.txt` (you can do this with `pip install -r requirements.txt`).
 3. Once Flask is running, open the local web link it gives you and go to the sign up page if you’re a new user or log in if you already have an account.
 4. explore the website of pomodoros, clocks and timers with music/alarms :)
 
