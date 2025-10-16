@@ -37,6 +37,6 @@ Instructions to use site:
 ## Credits:
 - Tested by my friends (shoutout Rita, Jackie, Isabella, Alice ‼️)
 - Thanks to Anne and Emily for their help and feedback 🔥
-- Made with assistance from ChatGPT and ClaudeAI 
+- Made with assistance from ChatGPT and ClaudeAI (helped me with fixing errors where I was unable to find where it was eg. the `main.py` and `style.css` as well as formatting the code so it was more readable)
 - Colour palettes from Coolers, images from online
 
